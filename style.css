@@ -1,0 +1,6 @@
+.box {
+    width: 300px;
+    height: 300px;
+    border-left: 3px solid orange;
+    border-bottom: 3px solid hotpink;
+}
